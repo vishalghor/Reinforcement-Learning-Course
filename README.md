@@ -1,2 +1,2 @@
 # Reinforcement-Learning-Course
-This is a repository consisting the my work on RL in academic
+This is a repository consisting my work on RL during my academic coursework
